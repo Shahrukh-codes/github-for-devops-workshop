@@ -1,0 +1,10 @@
+git init
+git status
+git add (fn)
+git add .
+git rm
+git commit -m "msg"
+
+clear
+git push origin master
+git history
