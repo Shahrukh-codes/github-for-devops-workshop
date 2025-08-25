@@ -1,7 +1,7 @@
 def mu_function():
     a = 5
     b = 4
-    c = 6
+    
 
 
     return d
