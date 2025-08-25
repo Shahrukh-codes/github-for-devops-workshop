@@ -1,14 +1,7 @@
 def mu_function():
-    a = 5
-    b = 4
     
+    a = 5
+    return a
 
-
-    return d
-
-my_function()
-
-
-
-
-test()
+# Call the function correctly
+mu_function()
