@@ -6,5 +6,5 @@ git rm
 git commit -m "msg"
 
 clear
-git push origin master
+git push origin main/master
 git history
